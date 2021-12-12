@@ -2,6 +2,7 @@ from PIL import Image
 import sys
 import os
 
+# ASCII Shade from Dark to Light. The last part represents the characterset length.
 asciishade_d2l_l02      = "▓ "
 asciishade_d2l_l04      = "▓▒░ "
 asciishade_d2l_l09_v1   = "█▇▆▅▄▃▂▁ "
